@@ -3,6 +3,9 @@
 
 ### ETHGlobal Hackathon, Brussels,  July 2024
 
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+
 - [@BrunoRoemers](https://twitter.com/BrunoRoemers)
 - [@kevtechi](https://twitter.com/kevtechi)
 - [@ChaimaaNairi](https://twitter.com/ChaimaaNairi)
@@ -10,6 +13,7 @@
 - [Presentation (PDF)](link_to_pdf)
 - [Video (Google Drive)](link_to_video)
 
+</div>
 
 ## Features
 - **Expense Splitting:** Add expenses, split them among group members, and store funds in a smart contract.
