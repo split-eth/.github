@@ -1,12 +1,6 @@
 ## Spliteth
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    **Spliteth** is a web3 application that simplifies expense splitting and payments using cryptocurrencies. Designed for ease of use, it allows users to participate and receive notifications via SMS or email, making it accessible even to those without a crypto wallet.
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/8a110ecd-9413-4bbc-a52b-dfed6e8a8a0d/Capture_d_écran_-removebg-preview.png" alt="Spliteth Logo" style="width: 100px; height: auto;">
-  </div>
-</div>
+
+**Spliteth** is a web3 application that simplifies expense splitting and payments using cryptocurrencies. Designed for ease of use, it allows users to participate and receive notifications via SMS or email, making it accessible even to those without a crypto wallet.
 
 ### ETHGlobal Hackathon, Brussels,  July 2024
 <p align="left" style="font-size:12px;">
